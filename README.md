@@ -2,6 +2,7 @@
 
 ## 📅 Last Updated
 
+- Weekday : Monday     | Date : 01 December 2025     | Time : 12:14:31 AM IST
 - Weekday : Sunday     | Date : 30 November 2025     | Time : 12:14:27 AM IST
 - Weekday : Saturday   | Date : 29 November 2025     | Time : 12:15:26 AM IST
 - Weekday : Friday     | Date : 28 November 2025     | Time : 12:15:35 AM IST
